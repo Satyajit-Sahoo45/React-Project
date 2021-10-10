@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Project/static/css/main.da55a687.chunk.css",
+    "main.js": "/React-Project/static/js/main.8bb56128.chunk.js",
+    "main.js.map": "/React-Project/static/js/main.8bb56128.chunk.js.map",
+    "runtime-main.js": "/React-Project/static/js/runtime-main.1aa28486.js",
+    "runtime-main.js.map": "/React-Project/static/js/runtime-main.1aa28486.js.map",
+    "static/css/2.0f1110e3.chunk.css": "/React-Project/static/css/2.0f1110e3.chunk.css",
+    "static/js/2.bfbeb2f0.chunk.js": "/React-Project/static/js/2.bfbeb2f0.chunk.js",
+    "static/js/2.bfbeb2f0.chunk.js.map": "/React-Project/static/js/2.bfbeb2f0.chunk.js.map",
+    "index.html": "/React-Project/index.html",
+    "static/css/2.0f1110e3.chunk.css.map": "/React-Project/static/css/2.0f1110e3.chunk.css.map",
+    "static/css/main.da55a687.chunk.css.map": "/React-Project/static/css/main.da55a687.chunk.css.map",
+    "static/js/2.bfbeb2f0.chunk.js.LICENSE.txt": "/React-Project/static/js/2.bfbeb2f0.chunk.js.LICENSE.txt",
+    "static/media/DataScience.afbeecce.jpg": "/React-Project/static/media/DataScience.afbeecce.jpg",
+    "static/media/android.8d94e8ff.jpg": "/React-Project/static/media/android.8d94e8ff.jpg",
+    "static/media/frontend.f5afd1a1.jpg": "/React-Project/static/media/frontend.f5afd1a1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa28486.js",
+    "static/css/2.0f1110e3.chunk.css",
+    "static/js/2.bfbeb2f0.chunk.js",
+    "static/css/main.da55a687.chunk.css",
+    "static/js/main.8bb56128.chunk.js"
+  ]
+}
